@@ -3,12 +3,12 @@ Created on Thu Feb 11 18:45:40 2021
 
 @author: shashank
 """
-
+#first ML program
 #Loan approval classification based on applicants status and previous data
 
 from sklearn import tree
 import numpy as np
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 
 #status=["age{y=0/m=1/o=2}","has_job{0/1}","own_house{0/1}","credit_rating{f=0/g=1/e=2}"]
 
